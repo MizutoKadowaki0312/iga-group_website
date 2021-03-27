@@ -1,2 +1,7 @@
 # iga-group_website
-伊賀研究室公式ウェブサイト
+
+Iga Laboratory Official Website.<br>
+
+The web page can be accessed from [here](https://mizutokadowaki0312.github.io/iga-group_website/).
+
+
