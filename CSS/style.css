@@ -44,6 +44,14 @@ img{
 
     /*home
     ------------------*/
+    article{
+        width: 74%;
+    }
+
+    aside{
+        width: 22%;
+        margin-left: auto;
+    }
 }
 
 
