@@ -32,11 +32,13 @@ img{
     /*header
     ------------------*/
     .main-nav{
+        display: none;
         font-size: 1rem;
         margin-top: 10px;
     }
 
     .main-nav li{
+        width: 100%;
         margin: 0 20px;
     }
 
