@@ -5,7 +5,11 @@
 ------------------*/
 
 @media (max-width: 768px){
-    
+
+    article{
+        width: 100%;
+    }
+
     aside{
         display: none;
     }
