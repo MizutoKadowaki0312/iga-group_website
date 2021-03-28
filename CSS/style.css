@@ -24,7 +24,7 @@ img{
 /*レスポンシブ
 ------------------*/
 
-@media (max-width: 600px){
+@media (max-width: 480px){
     .page-title{
         font-size: 2.5rem;
     }
