@@ -17,9 +17,8 @@
         font-size: medium;
     }
 
-    article{
+    header , article , footer , img{
         width: 100%;
-        margin-left: 150px;
     }
 
     body{
