@@ -4,8 +4,10 @@
 /*レスポンシブ
 ------------------*/
 
-*{
-    box-sizing: border-box;
+@media (max-width: 768px){
+    aside{
+        display: none;
+    }
 }
 
 /*共通部分
