@@ -9,20 +9,17 @@
         display: none;
     }
 
-    .contents-wrapper{
-        margin: 0;
-    }
-
-    .page-title{
-        font-size: medium;
-    }
-
-    header , article , footer , img{
+    header , .contents-wrapper , .wrapper , footer , img{
         width: 100%;
     }
 
     body{
         margin: 0;
+    }
+
+    .ref-image,
+    .ref-text{
+        width: 100%;
     }
 }
 
