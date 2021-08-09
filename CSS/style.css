@@ -4,9 +4,11 @@
 ------------------*/
 
 @media (max-width: 768px) {
+	/*
 	aside {
 		display: none;
 	}
+	*/
 
 	header,
 	.contents-wrapper,
@@ -119,12 +121,13 @@ footer p {
 ------------------*/
 article {
 	width: 74%;
-	margin-left: 150px;
+	text-align: center;
+	/*margin-left: 150px;*/
 }
 
 aside {
 	width: 22%;
-	margin-right: 150px;
+	margin-right: auto;
 	margin-left: auto;
 }
 
@@ -175,4 +178,24 @@ aside {
 	margin: 14px;
 	display: inline-block;
 	vertical-align: top;
+}
+
+/*
+表
+*/
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+table th,
+table td {
+	border: solid 1px black;
+	/*実線 1px 黒*/
+}
+/*余白と文字装飾は省略*/
+table td {
+	/*table内のtdに対して*/
+	padding: 50px 50px; /*上下60pxで左右70px*/
 }
