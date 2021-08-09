@@ -121,7 +121,7 @@ footer p {
 ------------------*/
 article {
 	width: 74%;
-	text-align: center;
+	text-align: left;
 	/*margin-left: 150px;*/
 }
 
@@ -167,6 +167,7 @@ aside {
 .news-content {
 	margin-top: 5px;
 	margin-bottom: 5px;
+	margin-left: auto;
 }
 
 /*research.html
@@ -197,5 +198,5 @@ table td {
 /*余白と文字装飾は省略*/
 table td {
 	/*table内のtdに対して*/
-	padding: 50px 50px; /*上下60pxで左右70px*/
+	padding: 60px 70px; /*上下60pxで左右70px*/
 }
